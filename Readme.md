@@ -91,6 +91,13 @@ Place the downloaded weights in:
 Download saliency map results from:  
 - **Baidu Netdisk**: [Link](https://pan.baidu.com/s/12YRAm2zYIELGmf6KskhUxA?pwd=lfso) (Password: `lfso`)
 
+## ⚙️ Light Field Tools
+
+Various light field related tools and autofocus tools are located at:
+```
+./tools/
+```
+
 ---
 
 Let me know if you'd like further refinements or additional sections!
